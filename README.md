@@ -3,6 +3,10 @@ This is a repository that build simple spider with python 2.7, containing a powe
 
 A series of idea: request and response, header, exception handling,javascript rendering, regular expression, BeautifulSoup4 modules, which make up the basic framework of a crawler would be introduced in the ipython notebook
 
+A basic knowledge in Python is needed and highly recommended to understand the content of this workshop. If you want to review on our previous workshop -- "Python Introduction", please go to "https://goo.gl/KxUzRf"
+
+
+
 Requirements:
 Several modules would be needed to run this script.
 a. re
