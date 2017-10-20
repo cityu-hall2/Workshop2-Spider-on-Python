@@ -21,8 +21,8 @@ If you have brew already installed, run the following two lines of command
 "https://virtualenv.pypa.io/en/stable/"
 
 For windows user, please use python installed with Anaconda and run the following commands in the Anaconda Prompt:
-conda install -c conda-forge re
-conda install -c conda-forge requests
-conda install -c conda-forge selenium
-conda install -c conda-forge beautifulsoup4
-conda install -c conda-forge phantomjs
+conda install -c conda-forge re  
+conda install -c conda-forge requests  
+conda install -c conda-forge selenium  
+conda install -c conda-forge beautifulsoup4  
+conda install -c conda-forge phantomjs  
